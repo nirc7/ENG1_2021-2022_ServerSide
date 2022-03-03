@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "Windows
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2", "WindowsFormsApp2\WindowsFormsApp2.csproj", "{54BDF6AA-3D60-4A1C-BBD7-45CB8007335E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsList", "StudentsList\StudentsList.csproj", "{83342D1D-B729-47A6-8B8E-B22D3F7EB5E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{54BDF6AA-3D60-4A1C-BBD7-45CB8007335E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54BDF6AA-3D60-4A1C-BBD7-45CB8007335E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54BDF6AA-3D60-4A1C-BBD7-45CB8007335E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83342D1D-B729-47A6-8B8E-B22D3F7EB5E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83342D1D-B729-47A6-8B8E-B22D3F7EB5E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83342D1D-B729-47A6-8B8E-B22D3F7EB5E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83342D1D-B729-47A6-8B8E-B22D3F7EB5E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
