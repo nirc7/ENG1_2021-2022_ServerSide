@@ -1,0 +1,6 @@
+C:\ENG1_2021-2022_ServerSide\04 23_03_2022 3TL WEBAPI\DSDemo\WindowsFormsApp1\DALProject\bin\Debug\DALProject.dll
+C:\ENG1_2021-2022_ServerSide\04 23_03_2022 3TL WEBAPI\DSDemo\WindowsFormsApp1\DALProject\bin\Debug\DALProject.pdb
+C:\ENG1_2021-2022_ServerSide\04 23_03_2022 3TL WEBAPI\DSDemo\WindowsFormsApp1\DALProject\obj\Debug\DALProject.csproj.CoreCompileInputs.cache
+C:\ENG1_2021-2022_ServerSide\04 23_03_2022 3TL WEBAPI\DSDemo\WindowsFormsApp1\DALProject\obj\Debug\DALProject.dll
+C:\ENG1_2021-2022_ServerSide\04 23_03_2022 3TL WEBAPI\DSDemo\WindowsFormsApp1\DALProject\obj\Debug\DALProject.pdb
+C:\ENG1_2021-2022_ServerSide\04 23_03_2022 3TL WEBAPI\DSDemo\WindowsFormsApp1\DALProject\obj\Debug\DALProject.csproj.AssemblyReference.cache
