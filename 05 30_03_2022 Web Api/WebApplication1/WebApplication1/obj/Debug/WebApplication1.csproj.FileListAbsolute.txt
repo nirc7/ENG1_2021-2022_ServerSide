@@ -161,3 +161,6 @@ C:\Users\RUPPIN\Desktop\ENG1_2021-2022_ServerSide\05 30_03_2022 Web Api\WebAppli
 C:\Users\RUPPIN\Desktop\ENG1_2021-2022_ServerSide\05 30_03_2022 Web Api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Users\RUPPIN\Desktop\ENG1_2021-2022_ServerSide\05 30_03_2022 Web Api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\RUPPIN\Desktop\ENG1_2021-2022_ServerSide\05 30_03_2022 Web Api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\RUPPIN\Desktop\ENG1_2021-2022_ServerSide\05 30_03_2022 Web Api\WebApplication1\WebApplication1\bin\System.Web.Cors.dll
+C:\Users\RUPPIN\Desktop\ENG1_2021-2022_ServerSide\05 30_03_2022 Web Api\WebApplication1\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\Users\RUPPIN\Desktop\ENG1_2021-2022_ServerSide\05 30_03_2022 Web Api\WebApplication1\WebApplication1\bin\System.Web.Http.Cors.xml

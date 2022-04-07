@@ -1,0 +1,6 @@
+C:\Users\RUPPIN\Desktop\ENG1_2021-2022_ServerSide\07-1 07_04_2022 ClientServerConnection\WebApplication1\DALProj\bin\Debug\DALProj.dll
+C:\Users\RUPPIN\Desktop\ENG1_2021-2022_ServerSide\07-1 07_04_2022 ClientServerConnection\WebApplication1\DALProj\bin\Debug\DALProj.pdb
+C:\Users\RUPPIN\Desktop\ENG1_2021-2022_ServerSide\07-1 07_04_2022 ClientServerConnection\WebApplication1\DALProj\obj\Debug\DALProj.csproj.AssemblyReference.cache
+C:\Users\RUPPIN\Desktop\ENG1_2021-2022_ServerSide\07-1 07_04_2022 ClientServerConnection\WebApplication1\DALProj\obj\Debug\DALProj.csproj.CoreCompileInputs.cache
+C:\Users\RUPPIN\Desktop\ENG1_2021-2022_ServerSide\07-1 07_04_2022 ClientServerConnection\WebApplication1\DALProj\obj\Debug\DALProj.dll
+C:\Users\RUPPIN\Desktop\ENG1_2021-2022_ServerSide\07-1 07_04_2022 ClientServerConnection\WebApplication1\DALProj\obj\Debug\DALProj.pdb
